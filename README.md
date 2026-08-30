@@ -3,3 +3,7 @@
 - Woonplaats
 - Hobbies
 
+## Lars de Wit
+- Rotterdam
+- Voetballen
+- Gamen
