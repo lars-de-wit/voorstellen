@@ -7,4 +7,4 @@
 - Rotterdam
 - Voetballen
 - Gamen
-- Hardloopen
+- Hardlopen
