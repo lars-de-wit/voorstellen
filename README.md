@@ -8,3 +8,8 @@
 - Voetballen
 - Gamen
 - Hardlopen
+
+## Jelle Bernard
+- Marathons lopen
+- Klimmen
+- COD Zombies
