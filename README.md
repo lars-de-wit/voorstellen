@@ -13,3 +13,8 @@
 - Marathons lopen
 - Klimmen
 - COD Zombies
+
+## Nilesh Debi
+- DevOps
+- Gym
+- Nutritie
